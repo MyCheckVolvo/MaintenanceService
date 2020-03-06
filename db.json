@@ -2,26 +2,26 @@
   "EA300QQ": 
     {
       "hasMaintenance": true,
-	  "time": 3
+      "time": "0"
     },
   "EA568RP":
     {
       "hasMaintenance": false,
-	  "time": 0
+	  "time": "0"
     },
   "EE854CW":
     {
       "hasMaintenance": false,
-	  "time": 0
+	  "time": "0"
     },
   "FJ474AK":
     {
       "hasMaintenance": true,
-	  "time": 1.5
+	  "time": "1.5"
     },
   "RTF123":
     {
       "hasMaintenance": false,
-	  "time": 0
+	  "time": "0"
     }
 }
